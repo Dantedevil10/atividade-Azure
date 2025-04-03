@@ -11,7 +11,7 @@ Um repositório foi criado no GitHub para documentar a experiência com análise
 Foi criada uma pasta `inputs/` contendo um arquivo com sentenças que passaram por análise.
 
 ### Utilização de IA para Análise
-Utilizamos ferramentas de IA para realizar a mineração de opinião e classificação de sentimentos.
+Utilização ferramentas de IA para realizar a mineração de opinião e classificação de sentimentos.
 
 A frase utilizada como input foi:
 > "the america isnt the best place to stay but is a nice place to live"
